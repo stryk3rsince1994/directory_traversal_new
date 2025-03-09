@@ -60,3 +60,10 @@ Ensure you have the required Kali Linux tools installed (e.g., nikto).
 Modify the regex patterns or add new ones to suit your specific needs.
 
 The script is designed for HTML and JavaScript files but can be adapted for other file types.
+
+
+![dirtravvulnscan](https://github.com/user-attachments/assets/7dd6c689-e893-456f-9455-91289da77be3)
+
+
+
+
