@@ -39,7 +39,7 @@ Copy
  | |  | |/ ____ \ | |\  |     _| |_| |\  |  | |  | |____| |     
  |_|  |_/_/    \_\|_| \_|    |_____|_| \_|  |_|  |______|_|     
 Written by David Cantrell AKA Stryk3r
-D33pS33k
+
 
 Enter the path to the HTML/JavaScript file to scan: /path/to/file.html
 Scanning file: /path/to/file.html
